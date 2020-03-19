@@ -249,6 +249,11 @@ This will interpolate the format string with the value of methods `name.lastName
   * model
   * fault
   * company
+* departments
+  *engineering
+  *division
+  *head
+  *semester
 
 ## Localization
 
