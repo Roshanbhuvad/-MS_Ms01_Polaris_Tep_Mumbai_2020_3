@@ -250,11 +250,12 @@ This will interpolate the format string with the value of methods `name.lastName
   * fault
   * company
 * departments
-  *engineering
-  *division
-  *head
-  *semester
-
+  * engineering
+  * head
+  * semester
+  * division
+  
+  
 ## Localization
 
 As of version `v2.0.0` faker.js has support for multiple localities.
